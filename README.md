@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mac-ml
 - 👀 I’m interested in health informatics and the use of artificial intelligence in health.
-- 🌱 I’m currently learning ai concepts with python.
+- 🌱 I’m currently learning ai concepts with python and JS.
 - 💞️ I’m looking to collaborate on ai app.
 - 📫 mehmetazizcakmak21@gmail.com | info@miraitechcompany.com | www.miraitechcompany.com
 
